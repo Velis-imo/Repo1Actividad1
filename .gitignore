@@ -1,0 +1,10 @@
+# Ignorar el archivo de configuración local
+configuracion_local.sh
+
+# Ignorar la carpeta de archivos personales
+archivos_personales/
+
+# Ignorar los archivos en bruto de Photoshop y Gimp
+# img/git_logo.xcf
+*.xcf
+*.psd
